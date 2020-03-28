@@ -1,0 +1,23 @@
+{
+  "name": "debug-examples",
+  "version": "1.0.0",
+  "description": "examples using debug module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aeciolevy/debug-examples.git"
+  },
+  "author": "Aécio Levy",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aeciolevy/debug-examples/issues"
+  },
+  "homepage": "https://github.com/aeciolevy/debug-examples#readme",
+  "dependencies": {},
+  "devDependencies": {
+    "debug": "^4.1.1"
+  }
+}
